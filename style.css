@@ -1,0 +1,45 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    color:rgb(140, 0, 255);
+
+    text-align:center;
+}
+
+p {
+    color: rgb(216, 113, 113);
+}
+div{
+    background-color: red;
+    font-style:italic;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    float: left;
+    margin-left: 2px;
+    padding-bottom: 2px;
+}
+#essa{
+    background-color: pink;
+}
+#essa1{
+    background-color: blanchedalmond;
+}
+.essa2{
+    background-color: greenyellow;
+}
+#drip{
+    background-color: pink;
+}
+#drip1{
+    background-color: blanchedalmond;
+}
+.drip2{
+    background-color: greenyellow;
+}
+ul{
+    list-style-type: upper-roman;
+}
+.piwo{
+    color: #0066ff;
+}
